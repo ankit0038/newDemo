@@ -10,18 +10,7 @@
   },
   "author": "Ankit Singh",
   "license": "ISC",
-  "dependencies": {
-    "bcryptjs": "^2.4.3",
-    "chalk": "^5.0.0",
-    "dotenv": "^10.0.0",
-    "express": "^4.17.2",
-    "jsonwebtoken": "^8.5.1",
-    "mongoose": "^6.2.0",
-    "swagger-ui-express": "^4.3.0",
-    "yamljs": "^0.3.0"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.15"
+  "dependencies": { 
   },
   "type": "module"
 }
